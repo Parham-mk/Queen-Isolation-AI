@@ -1,0 +1,6 @@
+# Queen's Isolation - Requirements
+# This project is built using only the Python Standard Library (no external dependencies required to run the game).
+
+# Optional Development Tools
+pytest>=7.0.0
+coverage>=7.0.0
